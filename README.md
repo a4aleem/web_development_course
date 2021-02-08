@@ -1,6 +1,6 @@
 # Web Development Course 
-#Assignment # 2
-To Do's:
+# Assignment 2
+# To Do's:
 1) Create Django Project
 2) Create Database
 3) Set Configurations
